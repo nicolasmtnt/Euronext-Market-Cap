@@ -3,7 +3,7 @@
 
 In this project, we use Python-based tools (Re, Pandas, BeautifulSoup) to display the largest market capitalizations on Euronext market.
 ![Paris 60 largest Cap](piechart40.png)
-(Screening performed on November 28, 2021)
+(Screening performed on November 26, 2021)
 
 ## Protocol
 First we import data from Euronext website and then parse with __*pandas*__ library.
