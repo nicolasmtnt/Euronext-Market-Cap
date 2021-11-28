@@ -63,7 +63,7 @@ def pieByPercent(i,size=150):
 
 This process is performed only on stocks valued at more than 1 billion euros (using __*re*__)
 
-![Paris 60 largest Cap](piechart100.png)
+![Paris 75 largest Cap](paris75.png)
 ![result table](result.csv)
 
 
