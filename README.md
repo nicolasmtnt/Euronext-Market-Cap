@@ -69,4 +69,4 @@ This process is performed only on stocks valued at more than 1 billion euros (us
 
 ![Amsterdam 25 largest Cap](amsterdam25.png)
 ![Amsterdam 60 largest Cap](amsterdam40.png)
-
+note : Some companies like __*Shell*__ or __*Unilever*__ will not appear because their financial id (ISIN) in registered in the UK
