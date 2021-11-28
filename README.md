@@ -67,3 +67,6 @@ This process is performed only on stocks valued at more than 1 billion euros (us
 ![result table](result.csv)
 
 
+![Amsterdam 25 largest Cap](amsterdam25.png)
+![Amsterdam 60 largest Cap](amsterdam40.png)
+
