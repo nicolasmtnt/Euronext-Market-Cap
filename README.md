@@ -22,7 +22,7 @@ Australia|1328|1.36
 South Korea|1259|1.29
 
 (data taken on December 27, 2021)
-[Complet List](country_by_marketcap.ipynb)
+[Full List](country_by_marketcap.md)
 
 
 ## Euronext-Market-Cap
