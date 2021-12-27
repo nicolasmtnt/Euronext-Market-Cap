@@ -1,4 +1,31 @@
-# Euronext-Market-Cap
+#  Market Capitalisation Data Visualization
+## Country Ranking
+
+By using data from companiesmarketcap.com, we can look at distribution of countries by their publicly listed companies MarketCap.
+The result show that that total value of US listed companies represent more than half of total world market capitalization
+
+country|marketcap|%
+---|---|---
+United States|52299|53.58
+China|7297|7.48
+Japan|4478|4.59
+India|3026|3.1
+France|3005|3.08
+Germany|2518|2.58
+United Kingdom|2517|2.58
+Canada|2494|2.56
+Saudi Arabia|2270|2.33
+Switzerland|2257|2.31
+Netherlands|1535|1.57
+Taiwan|1440|1.48
+Australia|1328|1.36
+South Korea|1259|1.29
+
+(data taken on December 27, 2021)
+[Complet List](country_by_marketcap.ipynb)
+
+
+## Euronext-Market-Cap
 ### Simple data visualisation of largest French listed companies on Euronext Paris by Market Cap
 
 In this project, we use Python-based tools (Re, Pandas, BeautifulSoup) to display the largest market capitalizations on Euronext market.
@@ -63,10 +90,9 @@ def pieByPercent(i,size=150):
 
 This process is performed only on stocks valued at more than 1 billion euros (using __*re*__)
 
-![Paris 75 largest Cap](paris75.png)
 ![result table](result.csv)
 
 
 ![Amsterdam 25 largest Cap](amsterdam25.png)
-![Amsterdam 60 largest Cap](amsterdam40.png)
+
 note : Some companies like __*Shell*__ or __*Unilever*__ will not appear because their financial id (ISIN) is registered in the UK
